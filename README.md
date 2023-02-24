@@ -1,5 +1,7 @@
 Capstone Project 4 - OOP
 
+## Instructions for how to develop, use, and test the code.
+
 This program helps with shoes stocktaking and allows stock data manipulation.
 
 This program works with the external data file. It reads the data, allows manipulation and provides an option of saving new data to the external file. Navigation through options is via a simple menu, where the user needs to choose from the given options.
