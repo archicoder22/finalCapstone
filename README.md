@@ -1,8 +1,8 @@
 ## Capstone Project 4 - OOP
 
-## A description of what the project is for.
+## Project description
 
-This program helps with shoes stocktaking and allows stock data manipulation.
+This program helps with shoes stocktaking and allows stock data manipulation. It is helpful for store managers who need to keep the stock. Its goal is to simplify the shoes stocktaking and provide up-to-date information on the stock products.
 
 ## Table of contents
 
@@ -13,18 +13,14 @@ This program helps with shoes stocktaking and allows stock data manipulation.
 
 ## Installation
 
-asceacqwvqwv
+This program works with IDE able to work with Python. It works with the external text file which should be kept in the same directory as the program file in order for the program to function correctly.
 
 ## Usage
 
 This program works with the external data file. It reads the data, allows manipulation and provides an option of saving new data to the external file. Navigation through options is via a simple menu, where the user needs to choose from the given options.
 
-This program is helpful for store managers who need to keep up with shoes stock.
-
-The goal of the program is to simplify the shoes stocktaking and provide up-to-date information on the stock products.
-
-This program work with the external text file which should be kept in the same directory as the program file in order for the program to function correctly.
+![image](https://user-images.githubusercontent.com/120684209/221312607-d60988f7-97ca-4805-84f5-37a240aebb9f.png)
 
 ## Credits
 
-Get in touch via email adamarchitect@hotmail.com
+The program has been created by Adam Sikora. Check my GitHub https://github.com/archicoder22 or get in touch via email adamarchitect@hotmail.com
